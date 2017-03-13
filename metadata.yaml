@@ -1,5 +1,8 @@
 _repo: Rowdy-of-the-Cross-L_1907
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bower, B. M.
@@ -16,6 +19,8 @@ description: This short but engaging novel contains all of the elements that mad
   schoolteacher are hampered by a longstanding blood feud. Meanwhile, Rowdy's boss
   is struggling to keep his herd alive during a brutal drought. It's a little slice
   of life in the untamed West that is sure to please Western fans.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1907#Rowdy-of-the-Cross-L
 gutenberg_bookshelf: Western
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
